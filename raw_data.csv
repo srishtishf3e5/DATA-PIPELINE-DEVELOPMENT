@@ -1,0 +1,6 @@
+age,income,gender,city,target
+25.0,50000.0,Male,Mumbai,1
+30.0,60000.0,Female,Delhi,0
+45.0,,Male,Kolkata,1
+28.0,45000.0,Female,Chennai,0
+,70000.0,Male,Mumbai,1
