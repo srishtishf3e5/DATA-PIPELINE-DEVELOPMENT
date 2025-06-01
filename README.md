@@ -79,4 +79,6 @@ Integrating into larger MLOps or data pipeline systems
 
 🧑‍💻 Technologies Used
 
-OUTPUT:  
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9bb72bb3-88a0-4c78-8028-346616e41fad)
