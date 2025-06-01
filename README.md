@@ -79,6 +79,12 @@ Integrating into larger MLOps or data pipeline systems
 
 🧑‍💻 Technologies Used
 
+Python 3.x
+
+pandas – for data manipulation
+
+scikit-learn – for preprocessing pipelines
+
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/9bb72bb3-88a0-4c78-8028-346616e41fad)
